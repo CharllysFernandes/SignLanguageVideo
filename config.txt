@@ -1,0 +1,2 @@
+video_path=/Users/charllysfernandes/Documents
+audio_path=/Users/charllysfernandes/Desktop
